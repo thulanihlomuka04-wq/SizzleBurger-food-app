@@ -1,0 +1,8 @@
+{
+  "name": "SizzleBurger - Jetpack Compose Fast-Food Ordering Studio",
+  "description": "Production architectural blueprint, Kotlin Jetpack Compose Material 3 source code, and live interactive mobile emulator for a fast-food ordering Android app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
